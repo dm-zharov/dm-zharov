@@ -5,5 +5,5 @@
 ## Side-project
 - [Finances Pro: Spending Manager](https://apps.apple.com/app/id6472495887)
 
-## Gists
+## Gist
 - [Algorithm for Creating a Name-Based UUID (Version 5, SHA-1))](https://gist.github.com/dm-zharov/0a523b0e8b850956108fc8a55c830a51)
