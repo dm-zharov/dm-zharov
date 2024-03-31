@@ -4,8 +4,9 @@
 
 ## Side-project
 
+• [Finances Pro: Spending Manager](https://apps.apple.com/app/id6472495887)
+
 <img width="480" alt="Finances Pro" src="https://github.com/dm-zharov/dm-zharov/assets/32037809/88dc11d7-29af-456f-a285-5c48173fb585">
-- [Finances Pro: Spending Manager](https://apps.apple.com/app/id6472495887)
 
 ### Gists
-- [Algorithm for Creating a Name-Based UUID (Version 5, SHA-1))](https://gist.github.com/dm-zharov/0a523b0e8b850956108fc8a55c830a51)
+• [Algorithm for Creating a Name-Based UUID (Version 5, SHA-1))](https://gist.github.com/dm-zharov/0a523b0e8b850956108fc8a55c830a51)
